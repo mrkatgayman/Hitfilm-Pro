@@ -206,4 +206,4 @@ This repository serves as the official landing page for HitFilm Pro. The softwar
 **Get the most recent version of HitFilm Pro today!**
 
 ---
-**Last updated:** 2026-11-13 21:53:22 UTC
+**Last updated:** 2026-11-14 02:10:54 UTC
